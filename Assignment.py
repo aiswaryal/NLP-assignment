@@ -91,6 +91,7 @@ for word,pos in pos_tagged:
 freq_nouns=nltk.FreqDist(nouns)
 print (freq_nouns)
 
+#testing
 
 
 
